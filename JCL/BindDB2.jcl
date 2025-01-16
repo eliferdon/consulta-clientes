@@ -1,0 +1,8 @@
+//BIND JOB (ACCT),'Bind DB2',
+// CLASS=A,MSGCLASS=A,NOTIFY=&SYSUID
+//STEP1  EXEC DSNUPROC
+//DSNUPROC.SYSIN DD *
+   BIND PLAN(ConsultaClientes)
+   MEMBER(ConsultaClientes)
+/*
+//
