@@ -23,4 +23,4 @@ Este proyecto es una demostración práctica de una aplicación CICS que permite
 
 ## Ejemplo
 - Entrada: `ID de Cliente = C001`
-- Salida:
+- Salida: `Nombre: Juan Perez Dirección: Calle Falsa 123 Saldo: 1500.00`
