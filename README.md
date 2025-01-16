@@ -55,8 +55,4 @@ El proyecto está organizado en las siguientes carpetas (porque, sí, el orden i
 
 ## Ejemplo
 - **Entrada:** `ID de Cliente = C001`
-- **Salida:**
-
-Nombre: Juan Perez
-Dirección: Calle Falsa 123
-Saldo: 1500.00
+- **Salida:** Nombre: Juan Perez Dirección: Calle Falsa 123 Saldo: 1500.00
